@@ -1,0 +1,12 @@
+ul{
+	list-style-type: circle;
+}
+h1{
+	color: blue;
+}
+ol>li{
+  font-weight: bold;
+}
+ul{
+	font-style: italic;
+}
